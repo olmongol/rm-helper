@@ -1,0 +1,13 @@
+*~
+*.pyc 
+*doc
+doc
+example
+*.log
+/tmp/
+*.tex
+*.toc
+*.pdf
+*.aux
+src/data/encounter/*
+src/data/npcs/*
